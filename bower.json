@@ -1,0 +1,16 @@
+{
+  "name": "bakery",
+  "description": "Bakery",
+  "main": "index.js",
+  "authors": [
+    "Anton Sobolevskiy <afilion24@gmail.com>"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
